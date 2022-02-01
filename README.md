@@ -6,7 +6,7 @@ This lab will cover how to create tables in HTML files.
 ---
 ### Steps
 
-In src -> main -> resources -> index.html create a table using the appropriate tags. This table should contain table headers, rows and table data. You should fill this table with information about your favorite countries, including, but not limited to, name, continent and population.
+1. In src -> main -> resources -> index.html create a table using the appropriate tags. This table should contain table headers, rows and table data. You should fill this table with information about your favorite countries, including, but not limited to, name, continent and population.
 
 ---
 
