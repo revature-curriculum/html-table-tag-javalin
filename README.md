@@ -12,6 +12,8 @@ In this lab you will create a table in HTML using the appropriate tags.
 
 ### Sample Output
 
+A table similar to the one below should appear.
+
 <h1> </h1>
 <table>
   <thead>
