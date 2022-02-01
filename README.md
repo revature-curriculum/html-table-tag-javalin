@@ -12,32 +12,6 @@ In this lab you will create a table in HTML using the appropriate tags.
 
 ### Sample Output
 
-A table similar to the one below should appear.
-
-<h1> </h1>
-<table>
-  <thead>
-    <tr>
-      <th> id </th>
-      <th> name </th>
-      <th> country </th>
-    </tr>
-  </thead>
-  <tr>
-    <td> 0 </td>
-    <td> John </td>
-    <td> Canada </td>
-  </tr>
-  <tr>
-    <td> 1 </td>
-    <td> Mary </td>
-    <td> Norway </td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td> Joe </td>
-    <td> USA </td>
-  </tr>
- </table>
+A table should appear with information about various countries.
 
  ---
