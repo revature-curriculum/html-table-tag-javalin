@@ -1,7 +1,7 @@
 ## Javalin HTML Table Tag
 ---
 ### Description
-This lab will cover how to create tables in HTML files.
+In this lab you will create a table in HTML using the appropriate tags.
 
 ---
 ### Steps
