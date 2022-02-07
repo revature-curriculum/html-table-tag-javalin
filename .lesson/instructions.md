@@ -1,4 +1,4 @@
-## Javalin HTML Table Tag
+## HTML Table Tag
 ---
 ### Description
 In this lab, you will create a table in HTML using the appropriate tags.
