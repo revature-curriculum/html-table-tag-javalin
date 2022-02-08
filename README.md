@@ -1,4 +1,4 @@
-## HTML Table Tag
+## HTML Table Tag Answer
 ---
 ### Description
 In this lab, you will create a table in HTML using the appropriate tags.
